@@ -79,7 +79,7 @@ s.ios.vendored_frameworks = 'QRPayFramework.framework'
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => 'https://gekkelkate@bitbucket.org/gekkelkate/qrframework.git', :tag => "0.1.0" }
+  s.source       = { :git => 'https://qrpayframework@bitbucket.org/qrpayframework/qrframework.git', :tag => "0.1.0" }
 #{ :git => "http://EXAMPLE/WooppayAPIv4.git", :tag => "#{s.version}" }
 
 
