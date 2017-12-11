@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "QRPayFramework"
-  s.version      = "0.1.0"
+  s.version      = "0.1.1"
   s.summary      = "QRPayFramework."
 
   # This description is used to generate tags and improve search results.
@@ -79,7 +79,7 @@ s.ios.vendored_frameworks = 'QRPayFramework.framework'
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => 'https://qrpayframework@bitbucket.org/qrpayframework/qrframework.git', :tag => "0.1.0" }
+  s.source       = { :git => 'https://qrpayframework@bitbucket.org/qrpayframework/qrframework.git', :tag => "0.1.1" }
 #{ :git => "http://EXAMPLE/WooppayAPIv4.git", :tag => "#{s.version}" }
 
 
